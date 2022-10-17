@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main{
+    /* display: flex; */
+    /* align-items: center; */
+    /* align-content: center; */
+    justify-content: center;
+}
+.mainHead{
+    font-size: 1.3rem;
+    border-bottom: 2px solid;
+}
